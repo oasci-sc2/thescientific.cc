@@ -1,4 +1,4 @@
-image: registry.gitlab.com/pages/hugo/hugo_extended:registry.gitlab.com/pages/hugo/hugo_extended:0.121.2
+image: registry.gitlab.com/pages/hugo/hugo_extended:0.124.1
 
 variables:
   HUGO_ENV: production
