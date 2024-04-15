@@ -1,6 +1,6 @@
 module sc2
 
-go 1.22.1
+go 1.21.1
 
 require (
 	github.com/colinwilson/lotusdocs v0.1.0 // indirect
