@@ -1,4 +1,4 @@
-image: registry.gitlab.com/pages/hugo/hugo_extended:0.124.1
+image: registry.gitlab.com/pages/hugo/hugo_extended:0.125.6
 
 variables:
   HUGO_ENV: production
@@ -9,9 +9,6 @@ default:
     - linux
   before_script:
     - apk add --no-cache go curl bash nodejs
-    # - hugo mod get -u $THEME_URL
-    ## Uncomment the following if you use PostCSS. See https://gohugo.io/hugo-pipes/postcss/
-    #- npm install postcss postcss-cli autoprefixer
 
 test:
   tags:
