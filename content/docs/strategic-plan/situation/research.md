@@ -3,18 +3,18 @@ weight: 32
 title: "Research"
 description: ""
 icon: "article"
-draft: true
+draft: false
 toc: true
 ---
 
-## Fragmentation Across Departments
+## Fragmentation across departments
 
 Computational sciences, including specialized areas like computational biology, have become increasingly important in modern research.
 These disciplines leverage the power of computing to tackle complex problems and generate new insights across a wide range of fields, from physics and chemistry to biology and engineering.
 However, the current organizational structure of many universities often results in computational sciences labs being scattered across different departments, each with its own resources, expertise, and research focus.
 
 This fragmentation can make it challenging for students and researchers to navigate the available resources effectively.
-They may need help identifying the most relevant labs for their research interests or be unaware of the full range of computational tools and expertise available within the institution.
+Students need help identifying the most relevant labs for their research interests or be unaware of the full range of computational tools and expertise available within the institution.
 This lack of visibility and accessibility can limit the potential for interdisciplinary collaboration and hinder the development of innovative research projects.
 
 Moreover, the fragmentation of computational sciences labs can lead to duplication of efforts and inefficiencies in resource allocation.
@@ -30,16 +30,19 @@ However, when computational sciences labs are isolated within their respective d
 Research training has relied heavily on a singular mentor-mentee relationship, where a student works closely with a faculty advisor to develop expertise in a specific research area.
 While this model has its merits, it may not fully address the multifaceted nature of contemporary research and the broader professional skills necessary for success beyond academia.
 
-PhD students would benefit from a more holistic mentorship approach, where they receive guidance and support from multiple mentors, each focusing on different aspects of their development.
-For instance, having one mentor dedicated to their research area can provide the necessary depth of knowledge and technical expertise.
-However, complementing this with mentors who focus on broad skills training, communication, and career development can help students acquire the transferable skills and adaptability needed to thrive in diverse professional settings.
+A holistic mentorship approach, where students receive guidance and support from multiple mentors, each focusing on different aspects of their development, would greatly benefit their growth as researchers and professionals.
+While having a primary mentor dedicated to their specific research area provides the necessary depth of knowledge and technical expertise, complementary mentorship focused on broad skills training, communication, and career development is equally crucial.
+This multifaceted approach helps students acquire transferable skills and adaptability, enabling them to thrive in diverse professional settings and navigate the complex challenges of the modern research landscape.
 
-While the committee system is intended to provide students with a diverse range of expertise and guidance, the reality is that committee members often have numerous competing time commitments, which can limit their ability to offer comprehensive and consistent mentorship.
-As a result, students may find that their interactions with committee members are limited to formal meetings and milestone events, such as proposal defenses and annual progress reviews. While these interactions are valuable, they may not provide the ongoing, in-depth guidance and feedback that students need to navigate the complexities of their research projects and develop the skills necessary for success in their chosen careers.
+A thesis committee system is intended to provide graduate students with a diverse range of expertise and guidance.
+However, the reality is that committee members often have numerous competing time commitments which limit their ability to offer comprehensive and consistent mentorship.
+As a result, students may find that their interactions with committee members are limited to formal meetings and milestone events, such as proposal defenses and annual progress reviews.
+While these interactions are valuable, they may not provide the ongoing, in-depth guidance and feedback that students need to navigate the complexities of their research projects and develop the skills necessary for success in their chosen careers.
 
-This multi-mentor approach acknowledges that the path to success in today's world is dynamic and that students need exposure to various perspectives, experiences, and skill sets. By having mentors with different backgrounds and expertise, students can better understand the interconnectedness of various disciplines and the importance of collaboration in solving complex problems.
-
-Moreover, the traditional hierarchical mentorship model may need to fully align with the realities of the modern scientific and technological landscape. As research becomes increasingly collaborative, cross-disciplinary, and project-based, students must develop the skills to work effectively in teams, communicate across disciplinary boundaries, and adapt to rapidly evolving technologies and methodologies.
+This multi-mentor approach acknowledges that the path to success in today's world is dynamic and that students need exposure to various perspectives, experiences, and skill sets.
+By having mentors with different backgrounds and expertise, students can better understand the interconnectedness of various disciplines and the importance of collaboration in solving complex problems.
+Furthermore, the traditional hierarchical mentorship model may need to fully align with the realities of the modern scientific and technological landscape.
+As research becomes increasingly collaborative, cross-disciplinary, and project-based, students must develop the skills to work effectively in teams, communicate across disciplinary boundaries, and adapt to rapidly evolving technologies and methodologies.
 
 ## Navigating the Demand for Computational Expertise
 
@@ -49,7 +52,7 @@ While this data holds immense potential for scientific discovery, it also presen
 
 Experimental labs require expertise in computational sciences, including skills in programming, data management, statistical analysis, and machine learning, to fully harness the power of this data.
 These skills are essential for processing large datasets, identifying patterns and trends, and extracting meaningful insights to inform further experiments and drive scientific progress.
-However, many experimental labs need more mentorship and guidance to develop these computational skills effectively. 
+However, many experimental labs need more mentorship and guidance to develop these computational skills effectively.
 
 Moreover, even when experimental labs recognize the need for computational expertise, they may need help accessing technical resources and support.
 High-performance computing infrastructure, specialized software tools, and data management systems can be costly and complex to set up and maintain.
@@ -68,12 +71,7 @@ One key factor is the rapid pace of research progress in computational sciences.
 As new methods, tools, and technologies accelerate, researchers may struggle to keep up with the latest standards and best practices for ensuring reproducibility.
 This can lead to researchers using outdated or inconsistent practices, making it difficult for others to reproduce their work.
 
-Moreover, implementing best practices for reproducibility often requires significant time and effort.
+Implementing best practices for reproducibility often requires significant time and effort.
 Researchers may need to carefully document their data, code, and analysis workflows and make them available in a transparent and accessible format.
 This can be daunting, especially for complex and large-scale computational projects.
 Without proper incentives and support from institutions and funding agencies, researchers may prioritize other aspects of their work over reproducibility.
-
-Computational research often involves integrating knowledge and methods from multiple disciplines, such as mathematics, computer science, physics, biology, and engineering.
-However, the traditional departmental structure of academic institutions can create silos that hinder cross-disciplinary collaboration.
-Researchers from different disciplines may have different terminologies, research cultures, and working methods, making establishing effective communication and collaboration challenging.
-Researchers may need a common language and understanding to identify potential collaborators, share ideas, and develop joint projects.
