@@ -1,6 +1,6 @@
 .PHONY: serve
 serve:
-	hugo server --disableFastRender
+	hugo serve -D
 
 .PHONY: update-mods
 update-mods:
