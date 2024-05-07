@@ -1,19 +1,20 @@
 ---
 weight: 31
 title: "Education"
-description: ""
+description: "How are computational scientists learning?"
 icon: "article"
-draft: true
+draft: false
 toc: true
 ---
 
 Integrating scientific computing and technological advancements into academic and professional workflows has been rapid and profound.
 However, educational institutions have been slow to adapt their pedagogical strategies to meet the demands of the digital age, a challenge further emphasized by the rise of generative artificial intelligence.
-This situational analysis explores the current state of scientific computing and education in the computational sciences, highlighting the need for reform in educational frameworks and mentorship practices.
+This situational analysis explores the current state of scientific computing and education in the computational sciences.
+Specifically, highlighting the need to revitalize educational frameworks and mentorship practices.
 
 ## Stagnant educational framework
 
-The rapid evolution of computational sciences has posed significant challenges for undergraduate curricula, which often struggle to keep pace with the field's advancements.
+The rapid evolution of computational sciences has posed significant challenges for undergraduate curricula.
 This lag between academic programs and industry demands results in graduates who may lack the necessary skills and knowledge to excel in contemporary research or professional roles.
 Recognizing this disparity, there is a growing call for more adaptable, responsive, and agile curricula that effectively incorporate new developments and best practices.
 
@@ -24,29 +25,27 @@ These outdated practices may not sufficiently address the complex, data-intensiv
 
 Consequently, educational institutions face a pressing need to reimagine and redesign their curricula to align with the current and future requirements of the field.
 This process involves a comprehensive reassessment of program structures, course content, and teaching methods to ensure they effectively prepare students for the challenges and opportunities they will encounter in their careers.
-By embracing a more flexible, interdisciplinary, and industry-informed approach to curriculum development, universities can bridge the gap between academia and the professional world, equipping graduates with the tools they need to succeed in the dynamic landscape of computational sciences.
+By embracing a more flexible, interdisciplinary, and industry-informed approach to curriculum development, universities can bridge the gap between academia and the professional world.
 
-## Exclusive classroom learning is insufficient
+## Classroom learning is insufficient
 
 Undergraduate education in computational sciences has evolved beyond the traditional classroom setting, necessitating a more comprehensive approach to mentorship and skill development.
+
+Undergraduate research an essential component of a sufficient education in computational sciences.
+Engaging in research projects allows students to apply their knowledge, develop critical thinking skills, and contribute to advancing their field.
+However, the current economic landscape poses challenges for students from lower socioeconomic backgrounds, as they may not have the financial means to dedicate time to research for academic credit.
 While faculty members have been instrumental in guiding undergraduates, relying solely on these individuals to shoulder the responsibility of mentoring students places an undue burden on them.
 Particularly given the limited number of computational researchers, resources, and bandwidth.
 
-Internships have emerged as a valuable avenue for students to gain practical experience and exposure to industry practices. However, the highly competitive nature of these opportunities often leaves many talented students without access to such experiences.
+Internships have emerged as a valuable avenue for students to gain practical experience and exposure to industry practices.
+However, the highly competitive nature of these opportunities often leaves many talented students without access to such experiences.
 To address this issue, educational institutions must foster strong working relationships with industry partners.
 By establishing a robust pipeline between academia and industry, universities can create more accessible and diverse internship opportunities for their students, ensuring a more equitable distribution of valuable hands-on learning experiences.
 
-Undergraduate research is another essential component of a well-rounded education in computational sciences.
-Engaging in research projects allows students to apply their knowledge, develop critical thinking skills, and contribute to advancing their field.
-However, the current economic landscape poses challenges for students from lower socioeconomic backgrounds, as they may not have the financial means to dedicate time to research for academic credit.
-While faculty members play a vital role in mentoring undergraduate researchers, it is essential to recognize the limitations of relying solely on their resources and time.
-
-
 ## Paradox of technological surface learning
 
-
 The rapid integration of technology into our daily lives has given rise to a generation of students who have grown up in a digitally saturated environment.
-However, this familiarity with consumer technology interfaces, such as smartphones and applications, often masks a lack of deeper technical literacy.
+However, this familiarity with consumer technology, such as smartphones and graphical user interfaces, often masks a lack of deeper technical literacy.
 While students may be adept at navigating user-friendly interfaces, they may struggle with understanding the underlying mechanisms of computing and the foundational principles of scientific computing.
 
 The ease of use and accessibility of modern technology has fostered a consumerist approach to digital tools.
@@ -60,6 +59,7 @@ There is a growing recognition of the skills gap between the competencies develo
 This disparity underscores the urgent need for educational reform that embraces project-based learning, interdisciplinary coursework, and experiential learning opportunities.
 By aligning educational practices with the collaborative and problem-solving nature of today's scientific and technological challenges, institutions can better prepare students for the demands of the digital age.
 
+<!-- 
 ## Need for Additional Educational and Mentorship Support
 
 As technology advances at an unprecedented rate, it is crucial to recognize that traditional mentorship models, which often rely on one-on-one interactions between a mentor and mentee, may need to be revised to fully support learners in navigating the complexities of the modern world.
@@ -77,4 +77,4 @@ Traditional mentorship models, which often focus on a single area of expertise, 
 
 Another aspect of this issue is the changing demographics of learners in higher education.
 As more non-traditional students, such as working professionals and adult learners, seek educational opportunities, mentorship practices must adapt to accommodate their unique needs and experiences.
-These learners often bring valuable real-world perspectives to the learning environment but may also face additional challenges in balancing their educational pursuits with other responsibilities.
+These learners often bring valuable real-world perspectives to the learning environment but may also face additional challenges in balancing their educational pursuits with other responsibilities. -->
