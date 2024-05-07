@@ -1,4 +1,14 @@
-/public
-/assets/jsconfig.json
-resources/_gen/
+Thumbs.db
+.DS_Store
+.dist
+.tmp
+.sass-cache
+npm-debug.log
+node_modules
+builds
+package-lock.json
 .hugo_build.lock
+public
+resources
+jsconfig.json
+go.sum
