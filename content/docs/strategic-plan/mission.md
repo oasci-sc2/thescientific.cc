@@ -8,7 +8,7 @@ toc: true
 ---
 
 The Scientific Computing Core (SC2) is committed to advancing the frontiers of computational science with a focus on empowering students at the [University of Pittsburgh](https://www.pitt.edu/) to convert knowledge into tangible, impactful research.
-Our mission is to provide a comprehensive framework for learning, applying, and innovating with computational technologies, guiding and nurturing the development of the next generation of computational scientists.
+Our mission is to provide a comprehensive framework for learning, applying, and innovating with computational technologies.
 
 SC2 aims to bridge the gap between potential and expertise by creating and sharing cohesive training materials that address various aspects of computational sciences.
 We strive to simplify the learning journey, making computational science accessible to research labs across diverse disciplines.
