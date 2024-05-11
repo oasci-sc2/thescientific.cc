@@ -1,17 +1,21 @@
 ---
 weight: 32
 title: "Research"
-description: ""
+description: "Where are computational scientists innovating?"
 icon: "article"
 draft: false
 toc: true
 ---
 
+The rapid advancement of computational sciences has revolutionized modern research, enabling scientists to tackle complex problems and generate groundbreaking insights across various disciplines.
+However, the current landscape of computational biology in academic institutions faces several challenges that hinder the effective utilization of these powerful tools.
+This situational analysis delves into four key areas of concern.
+By examining these challenges, we aim to identify opportunities for enhancing the integration of computational biology within our institution and fostering a more collaborative, efficient, and impactful research environment.
+
 ## Fragmentation across departments
 
-Computational sciences, including specialized areas like computational biology, have become increasingly important in modern research.
-These disciplines leverage the power of computing to tackle complex problems and generate new insights across a wide range of fields, from physics and chemistry to biology and engineering.
-However, the current organizational structure of many universities often results in computational sciences labs being scattered across different departments, each with its own resources, expertise, and research focus.
+Many disciplines leverage the power of computing to tackle complex problems and generate new insights across a wide range of fields including physics, chemistry, biology, and engineering.
+However, the current organizational structure of many universities often results in computational expertise being scattered across different departments&mdash;each with its own resources, expertise, and focus.
 
 This fragmentation can make it challenging for students and researchers to navigate the available resources effectively.
 Students need help identifying the most relevant labs for their research interests or be unaware of the full range of computational tools and expertise available within the institution.
@@ -21,44 +25,33 @@ Moreover, the fragmentation of computational sciences labs can lead to duplicati
 Each department may invest in similar computational infrastructure and software, leading to redundancies and increased costs.
 This fragmentation can also make it difficult to share best practices and knowledge across labs, as each operates within its departmental silo.
 
-The fragmentation issue could be more problematic in the context of interdisciplinary research.
+This fragmentation issue is more problematic in the context of interdisciplinary research.
 Many of the most pressing scientific challenges of our time, such as understanding complex biological systems or addressing climate change, require integrating knowledge and techniques from multiple disciplines.
 However, when computational sciences labs are isolated within their respective departments, fostering the necessary collaborations and knowledge exchange to tackle these complex problems effectively can be challenging.
 
 ## Research mentorship
 
-Research training has relied heavily on a singular mentor-mentee relationship, where a student works closely with a faculty advisor to develop expertise in a specific research area.
-While this model has its merits, it may not fully address the multifaceted nature of contemporary research and the broader professional skills necessary for success beyond academia.
-
-A holistic mentorship approach, where students receive guidance and support from multiple mentors, each focusing on different aspects of their development, would greatly benefit their growth as researchers and professionals.
-While having a primary mentor dedicated to their specific research area provides the necessary depth of knowledge and technical expertise, complementary mentorship focused on broad skills training, communication, and career development is equally crucial.
-This multifaceted approach helps students acquire transferable skills and adaptability, enabling them to thrive in diverse professional settings and navigate the complex challenges of the modern research landscape.
+Research training has relied heavily on a singular mentor-mentee relationship.
+This model does have its merits; having a primary mentor dedicated to their specific research area provides the necessary depth of knowledge and technical expertise.
+However, it may not address the nature of contemporary research and the broader professional skills necessary for success beyond academia&mdash;especially computational sciences.
 
 A thesis committee system is intended to provide graduate students with a diverse range of expertise and guidance.
 However, the reality is that committee members often have numerous competing time commitments which limit their ability to offer comprehensive and consistent mentorship.
 As a result, students may find that their interactions with committee members are limited to formal meetings and milestone events, such as proposal defenses and annual progress reviews.
-While these interactions are valuable, they may not provide the ongoing, in-depth guidance and feedback that students need to navigate the complexities of their research projects and develop the skills necessary for success in their chosen careers.
+While these interactions are valuable, they may not provide the ongoing, in-depth guidance and feedback that students need.
 
-This multi-mentor approach acknowledges that the path to success in today's world is dynamic and that students need exposure to various perspectives, experiences, and skill sets.
-By having mentors with different backgrounds and expertise, students can better understand the interconnectedness of various disciplines and the importance of collaboration in solving complex problems.
-Furthermore, the traditional hierarchical mentorship model may need to fully align with the realities of the modern scientific and technological landscape.
-As research becomes increasingly collaborative, cross-disciplinary, and project-based, students must develop the skills to work effectively in teams, communicate across disciplinary boundaries, and adapt to rapidly evolving technologies and methodologies.
-
-## Navigating the Demand for Computational Expertise
+## Demand for Computational Expertise
 
 In recent years, the volume and complexity of data generated by experimental labs have grown exponentially.
 Technological advances, such as high-throughput sequencing, high-resolution imaging, and sensor networks, have enabled researchers to collect vast amounts of data at unprecedented scales and levels of detail.
 While this data holds immense potential for scientific discovery, it also presents significant challenges for analysis and interpretation.
+Experimental labs require expertise in computational sciences to fully harness the power of this data, such as programming, data management, statistical analysis, and machine learning.
 
-Experimental labs require expertise in computational sciences, including skills in programming, data management, statistical analysis, and machine learning, to fully harness the power of this data.
-These skills are essential for processing large datasets, identifying patterns and trends, and extracting meaningful insights to inform further experiments and drive scientific progress.
-However, many experimental labs need more mentorship and guidance to develop these computational skills effectively.
-
-Moreover, even when experimental labs recognize the need for computational expertise, they may need help accessing technical resources and support.
+Even when experimental labs recognize the need for computational expertise, they may need help accessing technical resources and support.
 High-performance computing infrastructure, specialized software tools, and data management systems can be costly and complex to set up and maintain.
 Experimental researchers may struggle to navigate these technical challenges and effectively integrate computational methods into their research workflows without proper guidance and support.
 
-The lack of mentorship and technical expertise in computational sciences can also limit the ability of experimental labs to collaborate effectively with computational researchers and data scientists.
+Lack of experimental expertise in computational sciences can also limit the ability to collaborate.
 Interdisciplinary collaboration is increasingly essential for tackling complex scientific problems and driving innovation.
 However, experimental and computational researchers may struggle to work together effectively without a shared understanding of computational methods and a common language for communication.
 
@@ -67,6 +60,7 @@ However, experimental and computational researchers may struggle to work togethe
 The reproducibility crisis in computational sciences stems from the growing recognition that many published research findings are difficult or impossible to replicate.
 This crisis undermines scientific results' credibility and reliability, slowing the pace of discovery and innovation.
 Several factors contribute to this gap between recognizing the importance of reproducibility and implementing best practices.
+
 One key factor is the rapid pace of research progress in computational sciences.
 As new methods, tools, and technologies accelerate, researchers may struggle to keep up with the latest standards and best practices for ensuring reproducibility.
 This can lead to researchers using outdated or inconsistent practices, making it difficult for others to reproduce their work.
