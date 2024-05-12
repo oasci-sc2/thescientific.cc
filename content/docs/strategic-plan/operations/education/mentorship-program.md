@@ -1,16 +1,13 @@
 ---
-weight: 41
+weight: 10
 title: "Mentorship program"
-description: ""
+description: |
+    We recognize the transformative power of mentorship in nurturing the next generation of scientific computing leaders.
+    Our innovative mentorship program is designed to provide undergraduate students with the guidance, support, and opportunities they need to excel academically and professionally.
 icon: "article"
 draft: true
 toc: true
 ---
-
-At the [University of Pittsburgh](https://www.pitt.edu/), we recognize the transformative power of mentorship in nurturing the next generation of scientific computing leaders.
-Our innovative mentorship program is designed to provide undergraduate students with the guidance, support, and opportunities they need to excel academically and professionally.
-
-## Program Overview
 
 Our mentorship program takes a comprehensive approach to support undergraduate students' growth and development in computational sciences.
 We connect mentees with enthusiastic mentors from connected departments who are passionate about sharing their knowledge and expertise.
@@ -94,7 +91,7 @@ To attract a diverse and talented pool of mentees, we will employ the following 
 4.  Social Media and Online Presence: We will utilize social media platforms and the program website to showcase the achievements of our mentees, highlight the expertise of our mentors, and share success stories. This online presence will help raise awareness of the program and attract students who are actively seeking mentorship opportunities.
 5.  Collaborations with Student Organizations: We will partner with relevant student organizations, such as the Computational Biology Club or the Undergraduate Research Society, to promote the mentorship program and identify potential mentees who are already engaged in research or industry-related activities.
 
-### Matching Process and Program Structure
+## Matching Process and Program Structure
 
 We will implement a thoughtful matching process to foster meaningful and productive mentorship relationships that pairs mentors and mentees based on shared interests, career goals, and professional backgrounds.
 This process will involve:
@@ -113,7 +110,7 @@ The exact format and frequency of these interactions will be determined based on
 To support the success of the mentorship program, we will provide mentors and mentees with guidelines and resources, including best practices for effective mentorship, communication tools, and suggested discussion topics.
 By offering this structure and support, we aim to create an environment where mentorship relationships can thrive and contribute to the growth and success of all participants.
 
-### Training and Orientation
+## Training and Orientation
 
 Before the mentorship program begins, we will provide thorough training and orientation sessions for mentors and mentees.
 Mentors will participate in workshops designed to equip them with effective mentorship strategies, communication skills, and a clear understanding of their roles and responsibilities.
@@ -132,7 +129,7 @@ These sessions will help mentees understand how to:
 - Engage in productive discussions and seek guidance
 - Access and utilize program resources and support
 
-### Support and Resources
+## Support and Resources
 
 We will establish a dedicated support system to maintain a supportive and engaging environment throughout the mentorship program.
 A program coordinator or mentorship committee will be assigned to assist participants, mediate any issues that may arise, and facilitate a positive mentorship experience.
@@ -142,7 +139,7 @@ In addition to personalized support, we will create a comprehensive resource hub
 This hub will include information on career development, research methodologies, professional networking, and other subjects to help mentees grow and develop their skills.
 Mentors will also have access to these resources, allowing them to share relevant materials with their mentees and enhance their own mentorship abilities.
 
-### Monitoring and Feedback
+## Monitoring and Feedback
 
 We will implement a robust monitoring and feedback system to assess and improve the mentorship program continually.
 Regular check-ins with mentors and mentees will be conducted to monitor progress, address any challenges, and ensure the mentorship meets its objectives. Depending on the participants' needs and preferences, these check-ins may take the form of individual meetings, small group discussions, or surveys.
@@ -151,7 +148,7 @@ In addition to regular check-ins, we will collect feedback periodically through 
 
 By implementing these comprehensive support measures, we aim to create a mentorship program that provides valuable guidance and resources and fosters a sense of community and belonging among its participants. Through ongoing training, personalized support, and a commitment to continuous improvement, we will build a strong foundation for the success and growth of both mentors and mentees.
 
-### Networking and Professional Development Opportunities
+## Networking and Professional Development Opportunities
 
 Fostering a strong sense of community and providing opportunities for professional growth are essential to the success of the mentorship program. To achieve this, we will organize regular networking events, workshops, and seminars that bring together mentors, mentees, and the broader computational science community. These events will provide a platform for participants to:
 
@@ -162,7 +159,7 @@ Fostering a strong sense of community and providing opportunities for profession
 
 We will also actively encourage mentees to present their research, project outcomes, or professional development achievements as part of the program. This could include presenting at program-sponsored events, participating in poster sessions, or sharing their successes through blog posts or social media. By showcasing their accomplishments, mentees will gain valuable experience in communicating their work and will have the opportunity to receive feedback and recognition from the community.
 
-### Recognition and Appreciation
+## Recognition and Appreciation
 
 Recognizing and appreciating the contributions of both mentors and mentees is crucial to maintaining engagement and motivation within the mentorship program. To show our gratitude for the dedication and hard work of our mentors, we will implement a system of recognition that includes:
 
@@ -180,7 +177,7 @@ Similarly, we will celebrate the achievements of our mentees, whether it be the 
 
 By highlighting the accomplishments of our mentees, we aim to inspire others, foster a sense of pride and belonging within the program, and demonstrate the tangible impact of the mentorship experience.
 
-### Program Evaluation and Continuous Improvement
+## Program Evaluation and Continuous Improvement
 
 To maintain the effectiveness and relevance of the mentorship program over time, we will commit to continuous evaluation and improvement. We will conduct a comprehensive review of the program each year, assessing its impact on participants and the broader academic and professional community. This review will involve:
 
