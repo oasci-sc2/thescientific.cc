@@ -1,7 +1,7 @@
 .PHONY: serve
 serve:
 	rm -rf public
-	hugo serve -D
+	hugo server --disableFastRender
 
 .PHONY: update-mods
 update-mods:
